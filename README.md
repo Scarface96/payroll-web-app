@@ -2,6 +2,9 @@
 
 A comprehensive web application for managing employee payroll, salaries, and related financial data.
 
+<p align="center"><img src="docs/images/app.png" alt="Payroll table with hours entered and monthly pay calculated"></p>
+<p align="center"><sub>Hours entered for each employee; monthly pay and totals calculate on Enter</sub></p>
+
 ## 📋 Overview
 
 A feature-rich payroll management system designed to simplify employee salary calculations, deductions, and payment processing.
