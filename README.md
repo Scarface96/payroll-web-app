@@ -75,3 +75,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A payroll-focused web application that demonstrates translating common HR and finance workflows into a digital interface. It showcases JavaScript-driven calculations, employee data presentation and practical business application design.
